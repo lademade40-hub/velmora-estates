@@ -1,0 +1,79 @@
+{
+  "success": true,
+  "query": "luxury modern living room interior floor to ceiling windows",
+  "count": 10,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/77ceba1a6af1.jpg",
+      "caption": "",
+      "source": "Maison 78",
+      "original_width": "2000px",
+      "original_height": "1333px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/68a36203b88a.jpg",
+      "caption": "",
+      "source": "Saloni Furniture",
+      "original_width": "2400px",
+      "original_height": "1602px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/f891d434bc2d.jpg",
+      "caption": "",
+      "source": "TheCoolist",
+      "original_width": "1080px",
+      "original_height": "1350px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/869e2499b35b.jpg",
+      "caption": "",
+      "source": "Dreamstime",
+      "original_width": "1280px",
+      "original_height": "1690px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/5c6c060d20e4.jpg",
+      "caption": "",
+      "source": "LUXE Interiors + Design",
+      "original_width": "2560px",
+      "original_height": "1696px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/2f76603a4f60.jpg",
+      "caption": "",
+      "source": "Pinterest",
+      "original_width": "735px",
+      "original_height": "1106px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/54b07210db4d.jpg",
+      "caption": "",
+      "source": "Shutterstock",
+      "original_width": "1500px",
+      "original_height": "1099px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/0abeb4087966.jpg",
+      "caption": "",
+      "source": "Homedit",
+      "original_width": "2000px",
+      "original_height": "929px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/99bd782f0d26.jpg",
+      "caption": "",
+      "source": "Dreamstime.com",
+      "original_width": "1600px",
+      "original_height": "987px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/8d1cf0fc1753.jpg",
+      "caption": "",
+      "source": "Architectural Digest",
+      "original_width": "7680px",
+      "original_height": "5760px"
+    }
+  ]
+}

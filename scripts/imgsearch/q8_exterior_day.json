@@ -1,0 +1,65 @@
+{
+  "success": true,
+  "query": "modern luxury house exterior daylight driveway",
+  "count": 8,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/bf6292b39465.jpg",
+      "caption": "",
+      "source": "GEC Designs",
+      "original_width": "1200px",
+      "original_height": "1200px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/55bb9286128c.jpg",
+      "caption": "",
+      "source": "Build Green New Homes",
+      "original_width": "896px",
+      "original_height": "1344px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/a25baccb5eeb.jpg",
+      "caption": "",
+      "source": "Build Green New Homes",
+      "original_width": "896px",
+      "original_height": "1344px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/acfef88c81fa.jpg",
+      "caption": "",
+      "source": "Archival Designs",
+      "original_width": "1672px",
+      "original_height": "941px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/f86eef6fc46d.jpg",
+      "caption": "",
+      "source": "Zillow",
+      "original_width": "1536px",
+      "original_height": "1152px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/99a59f21243e.jpg",
+      "caption": "",
+      "source": "Architectural Designs",
+      "original_width": "1200px",
+      "original_height": "800px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/0c1298c43431.jpg",
+      "caption": "",
+      "source": "YouTube",
+      "original_width": "1280px",
+      "original_height": "720px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/b5b18b3c4018.jpg",
+      "caption": "",
+      "source": "www.glennlaytonhomes.com",
+      "original_width": "2560px",
+      "original_height": "1707px"
+    }
+  ]
+}

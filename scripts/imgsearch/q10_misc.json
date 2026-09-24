@@ -1,0 +1,51 @@
+{
+  "success": true,
+  "query": "modern walk in closet and home gym luxury interior",
+  "count": 6,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/3413c72b1c1e.jpg",
+      "caption": "",
+      "source": "Redfin",
+      "original_width": "1200px",
+      "original_height": "800px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/751dd0df5a91.jpg",
+      "caption": "",
+      "source": "Good Housekeeping",
+      "original_width": "1849px",
+      "original_height": "2765px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/581044338b46.jpg",
+      "caption": "",
+      "source": "ELLE Decor",
+      "original_width": "1844px",
+      "original_height": "2500px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/85ce0141a7e3.jpg",
+      "caption": "",
+      "source": "Pinterest",
+      "original_width": "736px",
+      "original_height": "1097px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/51398492268a.jpg",
+      "caption": "",
+      "source": "Real Homes",
+      "original_width": "2400px",
+      "original_height": "1800px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/d668cb1a8bf6.jpg",
+      "caption": "",
+      "source": "Architectural Digest",
+      "original_width": "1024px",
+      "original_height": "1024px"
+    }
+  ]
+}

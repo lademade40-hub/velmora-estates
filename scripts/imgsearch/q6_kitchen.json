@@ -1,0 +1,51 @@
+{
+  "success": true,
+  "query": "elegant luxury kitchen marble island interior",
+  "count": 6,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/6ee1e0efb470.jpg",
+      "caption": "",
+      "source": "Pinterest",
+      "original_width": "736px",
+      "original_height": "1229px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/180844a80ab6.jpg",
+      "caption": "",
+      "source": "Real Homes",
+      "original_width": "2560px",
+      "original_height": "1440px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/b0d8b13ea755.jpeg",
+      "caption": "",
+      "source": "GVD Renovations",
+      "original_width": "1456px",
+      "original_height": "816px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/e1b7351f26b9.jpg",
+      "caption": "",
+      "source": "Livingetc",
+      "original_width": "3200px",
+      "original_height": "1800px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/7be396f63eba.jpg",
+      "caption": "",
+      "source": "Real Homes",
+      "original_width": "2000px",
+      "original_height": "2400px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/516702744a18.jpg",
+      "caption": "",
+      "source": "Beautiful Homes - Asian Paints",
+      "original_width": "1137px",
+      "original_height": "807px"
+    }
+  ]
+}

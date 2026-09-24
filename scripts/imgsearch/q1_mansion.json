@@ -1,0 +1,65 @@
+{
+  "success": true,
+  "query": "modern luxury mansion exterior at dusk with warm lights and swimming pool",
+  "count": 8,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/f8f834049ea4.jpg",
+      "caption": "",
+      "source": "Interior Design Ideas",
+      "original_width": "1200px",
+      "original_height": "800px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/0e2052cc502e.jpeg",
+      "caption": "",
+      "source": "Architecture & Design",
+      "original_width": "1200px",
+      "original_height": "769px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/a1ce686898bf.jpg",
+      "caption": "",
+      "source": "Alamy",
+      "original_width": "1300px",
+      "original_height": "1065px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/db032c5f714d.jpg",
+      "caption": "",
+      "source": "TheCoolist",
+      "original_width": "1080px",
+      "original_height": "1350px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/28f9171e703d.jpg",
+      "caption": "",
+      "source": "Little Rock Soiree",
+      "original_width": "1200px",
+      "original_height": "800px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/4fcc65308f66.jpg",
+      "caption": "",
+      "source": "Mansion Global",
+      "original_width": "1280px",
+      "original_height": "853px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/5058e50961c5.jpg",
+      "caption": "",
+      "source": "Interior Design Magazine",
+      "original_width": "2000px",
+      "original_height": "2500px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/ae7ce53e7474.jpg",
+      "caption": "",
+      "source": "ELLE Decor",
+      "original_width": "1120px",
+      "original_height": "1115px"
+    }
+  ]
+}

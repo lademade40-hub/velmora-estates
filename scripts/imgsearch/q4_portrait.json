@@ -1,0 +1,79 @@
+{
+  "success": true,
+  "query": "professional business headshot portrait confident realtor in suit",
+  "count": 10,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/5f134c37333c.jpg",
+      "caption": "",
+      "source": "HeadshotsByAI",
+      "original_width": "1024px",
+      "original_height": "1024px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/9a3b7a8e24d4.jpg",
+      "caption": "",
+      "source": "Katerina Krjanina Photography",
+      "original_width": "1365px",
+      "original_height": "2048px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/8280e7c49c2e.jpg",
+      "caption": "",
+      "source": "Photography by Desiree",
+      "original_width": "1080px",
+      "original_height": "1620px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/53dc2ead0d35.jpg",
+      "caption": "",
+      "source": "Portrait Pal",
+      "original_width": "1707px",
+      "original_height": "2560px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/f5542b9dcfa5.jpg",
+      "caption": "",
+      "source": "Alex Kaplan Photography",
+      "original_width": "1600px",
+      "original_height": "1067px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/da66704f61de.jpg",
+      "caption": "",
+      "source": "Portraits With Purpose",
+      "original_width": "768px",
+      "original_height": "1024px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/04dab3b42fc7.jpg",
+      "caption": "",
+      "source": "Photography by Desiree",
+      "original_width": "1080px",
+      "original_height": "1620px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/4e7f6e707059.jpg",
+      "caption": "",
+      "source": "Pinterest",
+      "original_width": "736px",
+      "original_height": "1104px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/bf8e44e0fb65.jpg",
+      "caption": "",
+      "source": "Twin Rivers Photography Atlanta Duluth Portrait Photographer",
+      "original_width": "800px",
+      "original_height": "1120px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/ddc141683c2f.jpg",
+      "caption": "",
+      "source": "Idaho Photography Studios",
+      "original_width": "1024px",
+      "original_height": "1279px"
+    }
+  ]
+}

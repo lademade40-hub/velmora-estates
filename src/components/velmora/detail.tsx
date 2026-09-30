@@ -83,7 +83,7 @@ export function PropertyDetailPage({ slug }: { slug: string }) {
           {/* breadcrumb */}
           <Reveal>
             <nav className="flex flex-wrap items-center gap-2 text-[13px] font-light text-taupe mb-8" aria-label="Breadcrumb">
-              <a href="#/" onClick={(e) => { e.preventDefault(); navigate("#/"); }} className="hover:text-brass-dark transition-colors">Home</a>
+              <a href={routeToPath({ name: "home" })} onClick={(e) => { e.preventDefault(); navigate(routeToPath({ name: "home" })); }} className="hover:text-brass-dark transition-colors">Home</a>
               <ChevronRight className="w-3.5 h-3.5" />
               <a href={routeToPath({ name: "properties" })} onClick={(e) => { e.preventDefault(); navigate(routeToPath({ name: "properties" })); }} className="hover:text-brass-dark transition-colors">Properties</a>
               <ChevronRight className="w-3.5 h-3.5" />

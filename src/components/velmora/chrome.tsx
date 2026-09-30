@@ -2,7 +2,7 @@
 
 import { useEffect, useState } from "react";
 import { BRAND, NEIGHBORHOODS } from "@/lib/data";
-import { navigate, routeToPath, type Route } from "@/lib/router";
+import { navigate, routeToPath, useRoute, type Route } from "@/lib/router";
 import { Facebook, Instagram, Linkedin, Mail, MapPin, Menu, Phone, Twitter, X } from "lucide-react";
 
 /* ---------------- Logo ---------------- */
@@ -35,6 +35,21 @@ export function Logo({ light = false, compact = false }: { light?: boolean; comp
         </span>
       )}
     </a>
+  );
+}
+
+/* ---------------- Site frame (chrome around every page) ---------------- */
+
+export function SiteFrame({ children }: { children: React.ReactNode }) {
+  const route = useRoute();
+
+  return (
+    <div className="min-h-screen flex flex-col bg-background">
+      <TopBar />
+      <Header route={route} />
+      <main className="flex-1">{children}</main>
+      <Footer />
+    </div>
   );
 }
 
@@ -264,12 +279,12 @@ export function Footer() {
           <div className="lg:col-span-2">
             <h4 className="text-ivory text-sm uppercase font-medium tracking-[0.22em] mb-6">Explore</h4>
             <ul className="space-y-3.5 text-[15px] font-light">
-              <li><a href="#/" onClick={go("#/")} className="hover:text-brass-light transition-colors">Home</a></li>
-              <li><a href="#/about" onClick={go("#/about")} className="hover:text-brass-light transition-colors">About the Firm</a></li>
-              <li><a href="#/properties" onClick={go("#/properties")} className="hover:text-brass-light transition-colors">Properties</a></li>
-              <li><a href="#/agents" onClick={go("#/agents")} className="hover:text-brass-light transition-colors">Our Agents</a></li>
-              <li><a href="#/services" onClick={go("#/services")} className="hover:text-brass-light transition-colors">Services</a></li>
-              <li><a href="#/contact" onClick={go("#/contact")} className="hover:text-brass-light transition-colors">Contact</a></li>
+              <li><a href="/" onClick={go("/")} className="hover:text-brass-light transition-colors">Home</a></li>
+              <li><a href="/about" onClick={go("/about")} className="hover:text-brass-light transition-colors">About the Firm</a></li>
+              <li><a href="/properties" onClick={go("/properties")} className="hover:text-brass-light transition-colors">Properties</a></li>
+              <li><a href="/agents" onClick={go("/agents")} className="hover:text-brass-light transition-colors">Our Agents</a></li>
+              <li><a href="/services" onClick={go("/services")} className="hover:text-brass-light transition-colors">Services</a></li>
+              <li><a href="/contact" onClick={go("/contact")} className="hover:text-brass-light transition-colors">Contact</a></li>
             </ul>
           </div>
 
@@ -278,7 +293,7 @@ export function Footer() {
             <ul className="grid grid-cols-2 gap-3.5 text-[15px] font-light">
               {NEIGHBORHOODS.map((n) => (
                 <li key={n}>
-                  <a href="#/properties" onClick={go("#/properties")} className="hover:text-brass-light transition-colors">
+                  <a href="/properties" onClick={go("/properties")} className="hover:text-brass-light transition-colors">
                     {n}
                   </a>
                 </li>

@@ -2,6 +2,8 @@ import type { Metadata } from "next";
 import localFont from "next/font/local";
 import "./globals.css";
 import { Toaster } from "@/components/ui/toaster";
+import { RouterBridge } from "@/lib/router";
+import { SiteFrame } from "@/components/velmora/chrome";
 
 const cormorant = localFont({
   src: [
@@ -28,7 +30,11 @@ const jost = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "Velmora Estates | Luxury Real Estate in Los Angeles",
+  metadataBase: new URL(process.env.NEXT_PUBLIC_SITE_URL ?? "https://velmora-estates.vercel.app"),
+  title: {
+    default: "Velmora Estates | Luxury Real Estate in Los Angeles",
+    template: "%s | Velmora Estates",
+  },
   description:
     "Velmora Estates is a private brokerage representing exceptional homes across Los Angeles. Bel Air, Beverly Hills, Malibu, Pacific Palisades and beyond.",
   keywords: [
@@ -60,7 +66,8 @@ export default function RootLayout({
       <body
         className={`${cormorant.variable} ${jost.variable} antialiased bg-background text-foreground`}
       >
-        {children}
+        <RouterBridge />
+        <SiteFrame>{children}</SiteFrame>
         <Toaster />
       </body>
     </html>
